@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kobbieessel
+- 👋 Hi, I’m Kwabena E. Amoako
 - 👀 I’m interested in HTML and CSS
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
