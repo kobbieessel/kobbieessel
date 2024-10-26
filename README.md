@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kwabena E. Amoako
-- 👀 I’m interested in HTML and CSS
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Robotics, Hardware and Software
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me kwabenaesselamoako@gmail.com
 
 <!---
